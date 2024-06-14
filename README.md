@@ -1,5 +1,3 @@
-# Bomb-Disposal-Robot
-
 # Bomb Disposal Robot
 
 ## Overview
