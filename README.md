@@ -84,6 +84,11 @@ The Arduino board receives commands from the NodeMCU and performs the correspond
    - Use the sliders in the Blynk app to send commands to the NodeMCU.
    - The NodeMCU will send the commands to the Arduino via the serial interface.
    - The Arduino will execute the commands to control the robot base and the three fists.
+## Circuit Connection: 
+
+**Wire the circuit as show in below Schematic**
+![Bomb Disposable Robot Schematic ](https://drive.google.com/uc?id=1P2XJptm7uKwOsZqbQ9-65AqQO_VFQ9)
+
 
 ## Troubleshooting
 
