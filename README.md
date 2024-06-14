@@ -87,7 +87,7 @@ The Arduino board receives commands from the NodeMCU and performs the correspond
 ## Circuit Connection: 
 
 **Wire the circuit as show in below Schematic**
-<img src="https://drive.google.com/uc?id=1G8ERxGfp-D7oAJEhEjwcuXt3nZCGSE5p" alt="Image" width="500">
+<img src="https://drive.google.com/uc?id=1P2XJptm7uKwOsZqbQ9-65AqQO_VFQ9-o" alt="Image" width="500">
 
 
 ## Troubleshooting
