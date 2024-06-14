@@ -87,7 +87,7 @@ The Arduino board receives commands from the NodeMCU and performs the correspond
 ## Circuit Connection: 
 
 **Wire the circuit as show in below Schematic**
-![Bomb Disposable Robot Schematic ](https://drive.google.com/file/d/1P2XJptm7uKwOsZqbQ9-65AqQO_VFQ9-o/view?usp=drive_link)
+<img src="https://drive.google.com/uc?id=1G8ERxGfp-D7oAJEhEjwcuXt3nZCGSE5p" alt="Image" width="500">
 
 
 ## Troubleshooting
